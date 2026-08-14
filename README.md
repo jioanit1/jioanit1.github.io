@@ -1,32 +1,37 @@
-# Justin Ioanitescu Portfolio — Week 1
+# Justin Ioanitescu Portfolio — Complete Navy/Gold Version
 
-## Built in this release
-- Navy / gold / white visual design system
-- JI monogram and favicon
-- Responsive executive homepage
-- Desktop and mobile navigation
-- "How I Think" five-step framework preview
-- Experience credibility section
-- Selected work storytelling cards
-- About preview and contact CTA
-- Scroll reveal interactions
-- GitHub Pages-ready static files
+This package intentionally uses the original Week 1 visual direction:
+- warm white / light gray backgrounds
+- deep navy
+- muted gold accents
+- executive typography
+- rounded cards
+- clean, spacious layout
 
-## Brand
-**Positioning:** Sports Management × Analytics  
-**Hero line:** Better questions. Better decisions.  
-**Core idea:** Show how Justin thinks, not only what he made.
+Included:
+- Complete homepage
+- How I Think framework
+- Experience
+- Featured Park case study
+- Fictional-data disclosure
+- Fictional sample Park report image
+- About + contact
+- Mobile responsiveness
 
-Colors: Deep Navy `#0B1F3A`, Midnight `#071426`, Gold `#B68A3A`, Light Gold `#CFA95B`, Soft Gray `#F4F6F8`.
+## Preview on Mac
+Unzip the package and double-click `index.html`.
 
-## Preview on your Mac
-Double-click `index.html`.
+## Upload to GitHub Pages
+In the root of `jioanit1.github.io`, upload/replace ALL contents of this package:
+- index.html
+- styles.css
+- script.js
+- park-case-study.html
+- case-study.css
+- assets/
+- .nojekyll
 
-## Publish to GitHub Pages
-Upload the *contents* of this folder to the root of your `jioanit1.github.io` repository, commit, then go to **Settings → Pages** and choose **Deploy from a branch → main → /(root)**.
+Commit the changes. GitHub Pages will redeploy the entire website.
 
-## Week 2
-Next: full interactive "How I Think" experience, career timeline, and expanded About/story section.
-
-## Privacy
-Before publishing, make sure all project content is public-safe. Use anonymized or reconstructed examples for internal organizational information.
+## Important
+All numerical data in The Park case study is explicitly fictional and illustrative.
